@@ -1,5 +1,3 @@
-package kiln;
-
 import java.util.ArrayList;
 
 public class FirePlan {

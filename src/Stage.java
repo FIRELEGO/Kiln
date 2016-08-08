@@ -1,6 +1,3 @@
-package kiln;
-
-
 public class Stage {
 	private double endTemp;
 	private double endTime;
