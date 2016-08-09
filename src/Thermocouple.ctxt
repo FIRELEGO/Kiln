@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Thermocouple()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Thermocouple\n
+comment1.params=doNum\ csNum\ clkNum\ tempOffset
+comment1.target=Thermocouple(int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Thermocouple\n\ \n\ @param\ doNum\ pin\ number\ for\ the\ DO\ pin\n\ @param\ csNum\ pin\ number\ for\ the\ CS\ pin\n\ @param\ clkNum\ pin\ number\ for\ the\ CLK\ pin\n
+comment2.params=
+comment2.target=double\ getTemp()
+comment2.text=\n\ Method\ which\ request\ the\ temperature\ from\ the\ \n\ \n\ @return\ \ \ \ \ the\ temperature\ adjusted\ for\ thermocouple\ misread.\n
+comment3.params=
+comment3.target=void\ pause()
+numComments=4
