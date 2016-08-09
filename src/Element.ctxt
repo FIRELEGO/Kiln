@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Element()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Element\n
+comment1.params=relayNum
+comment1.target=Element(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Element\n\ \n\ @param\ relayNum\ pin\ number\ for\ the\ relay\ pin\n
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+numComments=4
